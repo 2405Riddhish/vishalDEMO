@@ -1,4 +1,3 @@
 # vishalDEMO
 
-
-Author vishal Mahaajn
+Author vishal Mahaajn (vishal)
